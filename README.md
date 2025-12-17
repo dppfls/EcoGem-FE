@@ -1,7 +1,7 @@
 # EcoGem-FE
 
 ## 🛠️ Tech Stack
-| 구분 | 기술 |
+| Category | Technology |
 |------|------|
 | Language | HTML, CSS, JavaScript |
 | Editor | Visual Studio Code |
